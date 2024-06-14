@@ -1,7 +1,7 @@
 # Part3: Recipe Application
 
 Part3 is a Windows Presentation Foundation (WPF) application designed for managing recipes. Users can enter new recipes, display a list of all recipes, and view detailed information about individual recipes. This application showcases how to build a functional and user-friendly WPF application using C#.
-
+https://github.com/ST10193957/PART-3.git
 ## Features
 
 Part3 includes several key features:
@@ -25,7 +25,7 @@ Before you can compile and run Part3, ensure you have the following software ins
 Begin by cloning the Part3 repository from GitHub. Open a terminal or command prompt and execute the following commands:
 
 ```sh
-git clone
+git clone https://github.com/ST10193957/PART-3.git
 cd Part3
 ```
 
